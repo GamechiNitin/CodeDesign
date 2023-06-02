@@ -3,11 +3,11 @@
 ### Solid Principles help developer to make software designs more understandlabe, flexible, scalabel and maintainable.
 
 #### SOLID Principles :
-* S :- Single responsibility principles
-* O := Open-closed principles
-* L :- Liskov Substitution principles
-* I :- Interface Segregation principles
-* D :- Dependency Inversion principles
+* S : Single responsibility principles
+* O : Open-closed principles
+* L : Liskov Substitution principles
+* I : Interface Segregation principles
+* D : Dependency Inversion principles
 
 ## Single responsibility principles :
 *	A class should have one and only one reason to change, meaning that a class should have only one job. 
